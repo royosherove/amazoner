@@ -1,0 +1,20 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="" GeneratedClassName="Settings">
+  <Profiles>
+    <Profile Name="(Default)" />
+  </Profiles>
+  <Settings>
+    <Setting Name="Amazoner_Amazon_WebServices_ECommerce_AWSECommerceService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">http://soap.amazon.com/onca/soap?Service=AWSECommerceService</Value>
+    </Setting>
+    <Setting Name="AWS_AccessKeyID" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">0PWNRK5PVFWWB38C1TR2</Value>
+    </Setting>
+    <Setting Name="AssociateID" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">iserializable</Value>
+    </Setting>
+    <Setting Name="LastSearch" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>
